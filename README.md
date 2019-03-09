@@ -13,3 +13,5 @@ Installing `my-package` in `test-project` using `yarn add ../my-package`
 [Writing a module in TypeScript](https://www.twilio.com/blog/2017/06/writing-a-node-module-in-typescript.html)
 
 [Local modules](https://medium.com/@arnaudrinquin/build-modular-application-with-npm-local-modules-dfc5ff047bcc)
+
+[Publishing a TypeScript module](https://codeburst.io/https-chidume-nnamdi-com-npm-module-in-typescript-12b3b22f0724)
